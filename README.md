@@ -8,3 +8,8 @@
 - Implement security hardening measures on a Linux Server and set up a monitoring system to ensure compliance
 - Implement a backkup solution using rsync and design a diaster recovery plan for a Linux server
 - Optimize the performance of a Linux server and benchmark its performance before and after tuning
+
+#### Phase 1 - 
+#### Phase 2 -
+#### Phase 3 -
+#### Phase 4 -
