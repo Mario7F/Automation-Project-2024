@@ -1,4 +1,4 @@
-# Devops-Project-2024
+# Automation Project
 
 ![Untitled-2024-07-14-2223-2](https://github.com/user-attachments/assets/9ee27372-ba59-42d0-97f7-c410659239a5)
 
